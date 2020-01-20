@@ -1,0 +1,2 @@
+Cache busting dinamik resource oluşturarak, sunucu tarafında bir değişiklik yapıldığında kullanıcının cache temizlemeden sayfasında değişiklik yapılmasını sağlar.
+Çünkü dosyalar da her değişiklik yapıldığında dinamik olan resource'a bağlı hashcode'u değişir.
